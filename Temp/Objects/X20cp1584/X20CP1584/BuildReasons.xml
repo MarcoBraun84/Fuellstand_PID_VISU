@@ -1,0 +1,321 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BuildReasons>
+  <Rule ID=".mappView_Clean_Data">
+    <BuildReason>Neuerstellung.</BuildReason>
+  </Rule>
+  <Rule ID=".mappView_Clean_TransferIatr">
+    <BuildReason>Neuerstellung.</BuildReason>
+  </Rule>
+  <Rule ID=".mappView_Clean_Media">
+    <BuildReason>Neuerstellung.</BuildReason>
+  </Rule>
+  <Rule ID=".mappView_Clean_TransferData">
+    <BuildReason>Neuerstellung.</BuildReason>
+  </Rule>
+  <Rule ID=".mappView_Clean_Build">
+    <BuildReason>Neuerstellung.</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\x20cp1584\x20cp1584\.mappview\data\wwwroot\brvisu\brease\iatc\brvisu\brease._markerfile">
+    <BuildReason>Neuerstellung.</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\x20cp1584\x20cp1584\.mappview\data\wwwroot\transformations_copy._markerfile">
+    <BuildReason>Neuerstellung.</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\x20cp1584\x20cp1584\iat_media.job._markerfile">
+    <BuildReason>Neuerstellung.</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\x20cp1584\x20cp1584\.mappview\data\wwwroot\brvisu\brease\iat\build\jsbuild._markerfile">
+    <BuildReason>Neuerstellung.</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\x20cp1584\x20cp1584\.mappview\data\wwwroot\index.html">
+    <BuildReason>Neuerstellung.</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\x20cp1584\x20cp1584\.mappview\data\wwwroot\server\serverdiagnostics._markerfile">
+    <BuildReason>Neuerstellung.</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\x20cp1584\x20cp1584\.mappview\data\wwwroot\types\area._markerfile">
+    <BuildReason>Neuerstellung.</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\x20cp1584\x20cp1584\.mappview\data\wwwroot\favicon.ico">
+    <BuildReason>Neuerstellung.</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\x20cp1584\x20cp1584\.mappview\duplicatethemesfinder._markerfile">
+    <BuildReason>Neuerstellung.</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\x20cp1584\x20cp1584\.mappview\duplicatestylessetsfinder._markerfile">
+    <BuildReason>Neuerstellung.</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\x20cp1584\x20cp1584\.mappview\data\wwwroot\brvisu\widgets\brease\common\css\boxlayout.sass.css._markerfile">
+    <BuildReason>Neuerstellung.</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\x20cp1584\x20cp1584\.mappview\duplicatestylesfinder._markerfile">
+    <BuildReason>Neuerstellung.</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\x20cp1584\x20cp1584\.mappview\duplicatebindingslistsetsfinder._markerfile">
+    <BuildReason>Neuerstellung.</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\x20cp1584\x20cp1584\.mappview\data\server\firstvisu.vis">
+    <BuildReason>Neuerstellung.</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\x20cp1584\x20cp1584\.mappview\data\server\config.mappviewcfg">
+    <BuildReason>Neuerstellung.</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\x20cp1584\x20cp1584\opcuamap\opcuamap.uar.gz">
+    <BuildReason>Neuerstellung.</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\x20cp1584\x20cp1584\arconfig.br">
+    <BuildReason>Neuerstellung.</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\x20cp1584\x20cp1584\program\cyclic.st.o">
+    <BuildReason>Neuerstellung.</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\x20cp1584\x20cp1584\ashwac.br">
+    <BuildReason>Neuerstellung.</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\x20cp1584\x20cp1584\mvloader.br">
+    <BuildReason>Neuerstellung.</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\x20cp1584\x20cp1584\udbdef.br">
+    <BuildReason>Neuerstellung.</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\x20cp1584\x20cp1584\tcdata\tcdata.imx">
+    <BuildReason>Neuerstellung.</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\x20cp1584\x20cp1584\standard.br">
+    <BuildReason>Neuerstellung.</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\x20cp1584\x20cp1584\loopcont.br">
+    <BuildReason>Neuerstellung.</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\x20cp1584\x20cp1584\sys_lib.br">
+    <BuildReason>Neuerstellung.</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\x20cp1584\x20cp1584\brsystem.br">
+    <BuildReason>Neuerstellung.</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\x20cp1584\x20cp1584\runtime.br">
+    <BuildReason>Neuerstellung.</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\x20cp1584\x20cp1584\mtbasics.br">
+    <BuildReason>Neuerstellung.</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\x20cp1584\x20cp1584\mttypes.br">
+    <BuildReason>Neuerstellung.</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\x20cp1584\x20cp1584\program\init.st.o">
+    <BuildReason>Neuerstellung.</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\x20cp1584\x20cp1584\program\exit.st.o">
+    <BuildReason>Neuerstellung.</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\x20cp1584\x20cp1584\program\_bur_pvdef.st.o">
+    <BuildReason>Neuerstellung.</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\x20cp1584\x20cp1584\program\a.out">
+    <BuildReason>Neuerstellung.</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\x20cp1584\x20cp1584\program\program.ox">
+    <BuildReason>Neuerstellung.</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\x20cp1584\x20cp1584\program.br">
+    <BuildReason>Neuerstellung.</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\x20cp1584\x20cp1584\.mappview\data\wwwroot\brvisu\widgets\brease\label\meta\label_copied.markerfile">
+    <BuildReason>Neuerstellung.</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\x20cp1584\x20cp1584\.mappview\data\wwwroot\brvisu\widgets\brease\basicslider\meta\basicslider_copied.markerfile">
+    <BuildReason>Neuerstellung.</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\x20cp1584\x20cp1584\.mappview\data\wwwroot\brvisu\widgets\brease\radialgauge\meta\radialgauge_copied.markerfile">
+    <BuildReason>Neuerstellung.</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\x20cp1584\x20cp1584\.mappview\data\wwwroot\brvisu\widgets\brease\navigationbar\meta\navigationbar_copied.markerfile">
+    <BuildReason>Neuerstellung.</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\x20cp1584\x20cp1584\.mappview\data\wwwroot\brvisu\widgets\brease\progressbar\meta\progressbar_copied.markerfile">
+    <BuildReason>Neuerstellung.</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\x20cp1584\x20cp1584\.mappview\data\wwwroot\brvisu\widgets\brease\buttonbar\meta\buttonbar_copied.markerfile">
+    <BuildReason>Neuerstellung.</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\x20cp1584\x20cp1584\.mappview\data\wwwroot\brvisu\widgets\brease\navigationbutton\meta\navigationbutton_copied.markerfile">
+    <BuildReason>Neuerstellung.</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\x20cp1584\x20cp1584\.mappview\data\wwwroot\brvisu\widgets\brease\togglebutton\meta\togglebutton_copied.markerfile">
+    <BuildReason>Neuerstellung.</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\x20cp1584\x20cp1584\.mappview\data\wwwroot\brvisu\widgets\brease\button\meta\button_copied.markerfile">
+    <BuildReason>Neuerstellung.</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\x20cp1584\x20cp1584\.mappview\data\wwwroot\brvisu\widgets\brease\onlinechart\meta\onlinechart_copied.markerfile">
+    <BuildReason>Neuerstellung.</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\x20cp1584\x20cp1584\.mappview\data\wwwroot\brvisu\widgets\brease\chartwidget\meta\chartwidget_copied.markerfile">
+    <BuildReason>Neuerstellung.</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\x20cp1584\x20cp1584\.mappview\data\wwwroot\brvisu\widgets\brease\busyindicator\meta\busyindicator_copied.markerfile">
+    <BuildReason>Neuerstellung.</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\x20cp1584\x20cp1584\.mappview\data\wwwroot\brvisu\widgets\brease\onlinecharttimeaxis\meta\onlinecharttimeaxis_copied.markerfile">
+    <BuildReason>Neuerstellung.</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\x20cp1584\x20cp1584\.mappview\data\wwwroot\brvisu\widgets\brease\chartxaxiswidget\meta\chartxaxiswidget_copied.markerfile">
+    <BuildReason>Neuerstellung.</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\x20cp1584\x20cp1584\.mappview\data\wwwroot\brvisu\widgets\brease\onlinechartyaxis\meta\onlinechartyaxis_copied.markerfile">
+    <BuildReason>Neuerstellung.</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\x20cp1584\x20cp1584\.mappview\data\wwwroot\brvisu\widgets\brease\chartyaxiswidget\meta\chartyaxiswidget_copied.markerfile">
+    <BuildReason>Neuerstellung.</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\x20cp1584\x20cp1584\.mappview\data\wwwroot\brvisu\widgets\brease\onlinechartgraph\meta\onlinechartgraph_copied.markerfile">
+    <BuildReason>Neuerstellung.</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\x20cp1584\x20cp1584\.mappview\data\wwwroot\brvisu\widgets\brease\chartyvaluelistwidget\meta\chartyvaluelistwidget_copied.markerfile">
+    <BuildReason>Neuerstellung.</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\x20cp1584\x20cp1584\.mappview\data\wwwroot\brvisu\widgets\brease\messagebox\meta\messagebox_copied.markerfile">
+    <BuildReason>Neuerstellung.</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\x20cp1584\x20cp1584\.mappview\data\wwwroot\brvisu\widgets\brease\window\meta\window_copied.markerfile">
+    <BuildReason>Neuerstellung.</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\x20cp1584\x20cp1584\.mappview\data\wwwroot\brvisu\widgets\brease\dialogwindow\meta\dialogwindow_copied.markerfile">
+    <BuildReason>Neuerstellung.</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\x20cp1584\x20cp1584\.mappview\data\wwwroot\brvisu\widgets\brease\numpad\meta\numpad_copied.markerfile">
+    <BuildReason>Neuerstellung.</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\x20cp1584\x20cp1584\.mappview\data\wwwroot\brvisu\widgets\brease\keyboard\meta\keyboard_copied.markerfile">
+    <BuildReason>Neuerstellung.</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\x20cp1584\x20cp1584\.mappview\data\wwwroot\brvisu\widgets\brease\datetimepicker\meta\datetimepicker_copied.markerfile">
+    <BuildReason>Neuerstellung.</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\x20cp1584\x20cp1584\tcdata\tcdata.s18d">
+    <BuildReason>Neuerstellung.</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\x20cp1584\x20cp1584\role.br">
+    <BuildReason>Neuerstellung.</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\x20cp1584\x20cp1584\user.br">
+    <BuildReason>Neuerstellung.</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\x20cp1584\x20cp1584\fwrules.br">
+    <BuildReason>Neuerstellung.</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\x20cp1584\x20cp1584\tcdata.br">
+    <BuildReason>Neuerstellung.</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\x20cp1584\x20cp1584\iomap.br">
+    <BuildReason>Neuerstellung.</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\x20cp1584\x20cp1584\sysconf.br">
+    <BuildReason>Neuerstellung.</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\x20cp1584\x20cp1584\asfw.br">
+    <BuildReason>Neuerstellung.</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\x20cp1584\x20cp1584\ashwd.br">
+    <BuildReason>Neuerstellung.</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\x20cp1584\x20cp1584\.mappview\data\.mappview_prerequisites._markerfile">
+    <BuildReason>Neuerstellung.</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\x20cp1584\x20cp1584\.mappview\data\wwwroot\brvisu\css\types\area_default.scss.css">
+    <BuildReason>Neuerstellung.</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\x20cp1584\x20cp1584\.mappview\data\wwwroot\brvisu\css\types\body_default.scss.css">
+    <BuildReason>Neuerstellung.</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\x20cp1584\x20cp1584\.mappview\data\wwwroot\brvisu\css\types\dialog_default.scss.css">
+    <BuildReason>Neuerstellung.</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\x20cp1584\x20cp1584\.mappview\data\wwwroot\brvisu\css\types\messagebox_default.scss.css">
+    <BuildReason>Neuerstellung.</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\x20cp1584\x20cp1584\.mappview\data\wwwroot\brvisu\css\types\scrollbar_default.scss.css">
+    <BuildReason>Neuerstellung.</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\x20cp1584\x20cp1584\.mappview\data\wwwroot\brvisu\css\types\page_default.scss.css">
+    <BuildReason>Neuerstellung.</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\x20cp1584\x20cp1584\.mappview\data\wwwroot\brvisu\css\types\modaldimmer_default.scss.css">
+    <BuildReason>Neuerstellung.</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\x20cp1584\x20cp1584\.mappview\data\wwwroot\brvisu\css\types\startupprogressbar_default.scss.css">
+    <BuildReason>Neuerstellung.</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\x20cp1584\x20cp1584\.mappview\data\wwwroot\brvisu\css\types\tooltip_default.scss.css">
+    <BuildReason>Neuerstellung.</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\x20cp1584\x20cp1584\.mappview\data\wwwroot\transformations\eventbinding\parametertypemapping.xml">
+    <BuildReason>Neuerstellung.</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\x20cp1584\x20cp1584\.mappview\data\wwwroot\firstvisu.json._markerfile">
+    <BuildReason>Neuerstellung.</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\x20cp1584\x20cp1584\.mappview\data\wwwroot\layout_1.layout._markerfile">
+    <BuildReason>Neuerstellung.</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\x20cp1584\x20cp1584\.mappview\data\wwwroot\contents\mappview\navigationcontent._markerfile">
+    <BuildReason>Neuerstellung.</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\x20cp1584\x20cp1584\.mappview\data\wwwroot\contents\mappview\page2content._markerfile">
+    <BuildReason>Neuerstellung.</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\x20cp1584\x20cp1584\.mappview\data\wwwroot\contents\mappview\page1content._markerfile">
+    <BuildReason>Neuerstellung.</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\x20cp1584\x20cp1584\.mappview\validatebindings._markerfile">
+    <BuildReason>Neuerstellung.</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\x20cp1584\x20cp1584\.mappview\data\server\binding_0.binding._markerfile">
+    <BuildReason>Neuerstellung.</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\x20cp1584\x20cp1584\.mappview\validateeventbindings._markerfile">
+    <BuildReason>Neuerstellung.</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\x20cp1584\x20cp1584\.mappview\data\server\__systemvariables.sessionvar">
+    <BuildReason>Neuerstellung.</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\x20cp1584\x20cp1584\.mappview\duplicatebindingsfinder._markerfile">
+    <BuildReason>Neuerstellung.</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\x20cp1584\x20cp1584\.mappview\data\wwwroot\brvisu\css\pages\mappview\visualization\pages\page2\page2.scss.css">
+    <BuildReason>Neuerstellung.</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\x20cp1584\x20cp1584\.mappview\data\wwwroot\page2.page._markerfile">
+    <BuildReason>Neuerstellung.</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\x20cp1584\x20cp1584\.mappview\data\wwwroot\page1.page._markerfile">
+    <BuildReason>Neuerstellung.</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\x20cp1584\x20cp1584\.mappview\data\wwwroot\brvisu\css\pages\mappview\visualization\pages\page1\page1.scss.css">
+    <BuildReason>Neuerstellung.</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\x20cp1584\x20cp1584\.mappview\data\wwwroot\brvisu\css\pages\mappview\visualization\pages\areacontents\navi.scss.css">
+    <BuildReason>Neuerstellung.</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\x20cp1584\x20cp1584\.mappview\data\wwwroot\firstvisu.json">
+    <BuildReason>Neuerstellung.</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\x20cp1584\x20cp1584\.mappview\data\wwwroot\brvisu\css\brease_core.css">
+    <BuildReason>Neuerstellung.</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\x20cp1584\x20cp1584\.mappview\data\wwwroot\grunt.widgets._markerfile">
+    <BuildReason>Neuerstellung.</BuildReason>
+  </Rule>
+  <Rule ID=".mappView_Build">
+    <BuildReason>Neuerstellung.</BuildReason>
+  </Rule>
+  <Rule ID=".mappView_FullBuild">
+    <BuildReason>Neuerstellung.</BuildReason>
+  </Rule>
+  <Rule ID="#cpu_tp.mak">
+    <BuildReason>Neuerstellung.</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\binaries\x20cp1584\x20cp1584\transfer.lst">
+    <BuildReason>Neuerstellung.</BuildReason>
+  </Rule>
+</BuildReasons>

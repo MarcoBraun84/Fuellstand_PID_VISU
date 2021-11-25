@@ -1,0 +1,174 @@
+﻿@import "mixins.scss";
+#Page1Content_Label1 {
+	@include elemAutoHeight(30);
+}
+#Page1Content_Label1 {
+	@include elemTop(20);
+}
+#Page1Content_Label1 {
+	@include elemLeft(20);
+}
+#Page1Content_Label1 {
+	@include elemAutoWidth(660);
+}
+#Page1Content_Label1 {
+		z-index: 0;
+}
+#Page1Content_Label1 {
+	@include text-alignment-all('center');
+}
+#Page1Content_Pumpe {
+	@include elemTop(300);
+}
+#Page1Content_Pumpe {
+	@include elemLeft(380);
+}
+#Page1Content_Pumpe {
+	@include elemWidth(300);
+}
+#Page1Content_Pumpe {
+	@include elemHeight(300);
+}
+#Page1Content_Pumpe {
+		z-index: 1;
+}
+#Page1Content_Pumpe {
+	.backShape{
+		border-color: rgba(0, 0, 0, 1);
+	}
+}
+#Page1Content_Pumpe {
+	.backShape{
+		background-color: rgba(255, 255, 255, 1);
+	}
+}
+#Page1Content_Pumpe {
+	.gaugeContainer .groupScaleAreas .area1{
+		fill: rgba(255, 0, 0, 1);
+	}
+}
+#Page1Content_Pumpe {
+	.gaugeContainer .groupScaleAreas .area2{
+		fill: rgba(127, 255, 0, 1);
+	}
+}
+#Page1Content_Pumpe {
+	.gaugeContainer .groupScaleAreas .area3{
+		fill: rgba(127, 255, 0, 1);
+	}
+}
+#Page1Content_Pumpe {
+	.gaugeContainer .groupScaleAreas .area4{
+		fill: rgba(127, 255, 0, 1);
+	}
+}
+#Page1Content_Pumpe {
+	.gaugeContainer .groupScaleAreas .area5{
+		fill: rgba(127, 255, 0, 1);
+	}
+}
+#Page1Content_SOLL {
+	@include elemTop(220);
+}
+#Page1Content_SOLL {
+	@include elemLeft(20);
+}
+#Page1Content_SOLL {
+	@include elemWidth(640);
+}
+#Page1Content_SOLL {
+	@include elemHeight(80);
+}
+#Page1Content_SOLL {
+		z-index: 2;
+}
+#Page1Content_PID_P {
+	@include elemTop(100);
+}
+#Page1Content_PID_P {
+	@include elemLeft(20);
+}
+#Page1Content_PID_P {
+	@include elemWidth(300);
+}
+#Page1Content_PID_P {
+	@include elemHeight(80);
+}
+#Page1Content_PID_P {
+		z-index: 3;
+}
+#Page1Content_PID_I {
+	@include elemTop(100);
+}
+#Page1Content_PID_I {
+	@include elemLeft(360);
+}
+#Page1Content_PID_I {
+	@include elemWidth(300);
+}
+#Page1Content_PID_I {
+	@include elemHeight(80);
+}
+#Page1Content_PID_I {
+		z-index: 4;
+}
+#Page1Content_Label2 {
+	@include elemAutoWidth(80);
+}
+#Page1Content_Label2 {
+	@include elemAutoHeight(30);
+}
+#Page1Content_Label2 {
+	@include elemTop(180);
+}
+#Page1Content_Label2 {
+	@include elemLeft(320);
+}
+#Page1Content_Label2 {
+		z-index: 5;
+}
+#Page1Content_Label3 {
+	@include elemAutoWidth(80);
+}
+#Page1Content_Label3 {
+	@include elemAutoHeight(30);
+}
+#Page1Content_Label3 {
+	@include elemTop(80);
+}
+#Page1Content_Label3 {
+	@include elemLeft(160);
+}
+#Page1Content_Label3 {
+		z-index: 6;
+}
+#Page1Content_Label4 {
+	@include elemAutoWidth(80);
+}
+#Page1Content_Label4 {
+	@include elemAutoHeight(30);
+}
+#Page1Content_Label4 {
+	@include elemTop(80);
+}
+#Page1Content_Label4 {
+	@include elemLeft(500);
+}
+#Page1Content_Label4 {
+		z-index: 7;
+}
+#Page1Content_ProgressBar1 {
+	@include elemTop(340);
+}
+#Page1Content_ProgressBar1 {
+	@include elemLeft(80);
+}
+#Page1Content_ProgressBar1 {
+	@include elemWidth(210);
+}
+#Page1Content_ProgressBar1 {
+	@include elemHeight(210);
+}
+#Page1Content_ProgressBar1 {
+		z-index: 8;
+}

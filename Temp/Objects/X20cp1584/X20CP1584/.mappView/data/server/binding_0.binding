@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BindingDefinition xmlns="http://www.br-automation.com/iat2014/binding/runtime/v1">
+  <Content id="Page1Content">
+    <Binding mode="twoWay">
+			<Source xsi:type="opcUa" refId="::Program:varSollFuellstand" attribute="value" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+			<Target xsi:type="brease" refId="Page1Content_SOLL" attribute="value" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+		</Binding><Binding mode="oneWay">
+			<Source xsi:type="opcUa" refId="::Program:varSollFuellstand" attribute="editable" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+			<Target xsi:type="brease" refId="Page1Content_SOLL" attribute="editable::value" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+		</Binding>
+  </Content>
+  <Content id="Page1Content">
+    <Binding mode="twoWay">
+			<Source xsi:type="opcUa" refId="::Program:varPID_P" attribute="value" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+			<Target xsi:type="brease" refId="Page1Content_PID_P" attribute="value" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+		</Binding><Binding mode="oneWay">
+			<Source xsi:type="opcUa" refId="::Program:varPID_P" attribute="editable" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+			<Target xsi:type="brease" refId="Page1Content_PID_P" attribute="editable::value" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+		</Binding>
+  </Content>
+  <Content id="Page1Content">
+    <Binding mode="twoWay">
+			<Source xsi:type="opcUa" refId="::Program:varPID_I" attribute="value" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+			<Target xsi:type="brease" refId="Page1Content_PID_I" attribute="value" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+		</Binding><Binding mode="oneWay">
+			<Source xsi:type="opcUa" refId="::Program:varPID_I" attribute="editable" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+			<Target xsi:type="brease" refId="Page1Content_PID_I" attribute="editable::value" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+		</Binding>
+  </Content>
+  <Content id="Page1Content">
+    <Binding mode="twoWay">
+			<Source xsi:type="opcUa" refId="::Program:varFuellstandOben" attribute="value" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+			<Target xsi:type="brease" refId="Page1Content_ProgressBar1" attribute="value" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+		</Binding>
+  </Content>
+  <Content id="Page2Content">
+    <Binding mode="twoWay">
+<Source xsi:type="opcUa" refId="::Program:varFuellstandOben" attribute="value" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+<Target xsi:type="brease" refId="Page2Content_OnlineChartGraph1" attribute="value" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+</Binding>
+  </Content>
+  <Content id="Page1Content">
+    <Binding mode="twoWay">
+<Source xsi:type="opcUa" refId="::Program:PID.Out" attribute="value" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+<Target xsi:type="brease" refId="Page1Content_Pumpe" attribute="value" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+</Binding>
+  </Content>
+</BindingDefinition>

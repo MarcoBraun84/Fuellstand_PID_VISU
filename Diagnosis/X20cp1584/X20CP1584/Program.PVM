@@ -1,0 +1,15 @@
+WATCH Ver=2.00 PLCName=PLC1 CPUName=CPU TaskName=Program 
+Position X=0 Y=0 Width=0 Height=0 TabWidth Name=200 Type=100 Scope=60 Force=60 Index=8 ASCIIString=0
+                                    name                                     type force                                                            value level type len format place expand specs
+                       varSollFuellstand                                     REAL    0 "                                                            67.0"    0    8    1   10    1    0         
+                       varFuellstandOben                                     REAL    0 "                                                        67.01697"    0    8    1   10    1    0         
+                                varPumpe                                      INT    0 "                                                               0"    0    3    1   10    1    0         
+                               varPidEnb                                     BOOL    0 "                                                            TRUE"    0    1    1    2    1    0         
+                                varPID_I                                     REAL    0 "                                                             5.0"    0    8    1   10    1    0         
+                                varPID_P                                     REAL    0 "                                                             5.0"    0    8    1   10    1    0         
+                     DoVentilAblass_Y002                                     BOOL    3 "                                                           FALSE"    0    1    1    2    1    0         
+                                     PID                              MTBasicsPID    0 "                                                               *"    0   24    1    0    1    1         
+                                     Out                                     REAL    0 "                                                      36.4971733"    1    8    1   10    0    0         
+                                      dh                                     REAL    0 "                                                 -1.33477233E-05"    0    8    1   10    1    0         
+                           varSimulation                                     BOOL    0 "                                                            TRUE"    0    1    1    2    1    0         
+                            AoPumpe_P001                                      INT    3 "                                                               0"    0    3    1   10    1    0         

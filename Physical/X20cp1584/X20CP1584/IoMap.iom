@@ -1,0 +1,6 @@
+VAR_CONFIG
+	::Program:DiTankB002Leer_L002L AT %IX."X20DIF371".DigitalInput01 INVERSE;
+	::Program:DoVentilAblass_Y002 AT %QX."X20DOF322".DigitalOutput01;
+	::Program:AiFuellstandTank_L001 AT %IW."X20AI4622".AnalogInput01;
+	::Program:AoPumpe_P001 AT %QW."X20AO4632".AnalogOutput01;
+END_VAR

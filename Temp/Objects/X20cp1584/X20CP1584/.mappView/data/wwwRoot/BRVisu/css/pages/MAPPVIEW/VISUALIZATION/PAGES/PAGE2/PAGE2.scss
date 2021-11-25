@@ -1,0 +1,47 @@
+﻿@import "mixins.scss";
+#Page2Content_OnlineChart1 {
+	@include elemTop(0);
+}
+#Page2Content_OnlineChart1 {
+	@include elemLeft(0);
+}
+#Page2Content_OnlineChart1 {
+	@include elemWidth(700);
+}
+#Page2Content_OnlineChart1 {
+	@include elemHeight(600);
+}
+#Page2Content_OnlineChart1 {
+		z-index: 0;
+}
+#Page2Content_OnlineChartTimeAxis1 {
+	@include elemHeight(50);
+}
+#Page2Content_OnlineChartTimeAxis1 {
+	@include elemFlexBasis(50);
+}
+#Page2Content_OnlineChartTimeAxis1 {
+		z-index: 0;
+}
+#Page2Content_OnlineChartYAxis1 {
+	@include elemWidth(60);
+}
+#Page2Content_OnlineChartYAxis1 {
+	@include elemFlexBasis(60);
+}
+#Page2Content_OnlineChartYAxis1 {
+		z-index: 1;
+}
+#Page2Content_OnlineChartGraph1 {
+		z-index: 0;
+}
+#Page2Content_OnlineChartGraph1_breaseChartYValueList_line {
+	&.disabled.graph{
+		stroke: rgba(0, 0, 0, 1);
+	}
+}
+#Page2Content_OnlineChartGraph1 {
+	&.breaseChartYValueListWidget.editMode.disabled{
+		border-color: rgba(0, 0, 0, 1);
+	}
+}

@@ -1,0 +1,20 @@
+VAR
+	varPID_I : REAL;
+	varPID_P : REAL;
+	varSimulation : BOOL;
+	DoVentilAblass_Y002 : BOOL;
+	DiTankB002Leer_L002L : BOOL;
+	AoPumpe_P001 : INT;
+	varPumpe : INT;
+	AiFuellstandTank_L001 : INT;
+	dh : REAL;
+	h : REAL;
+	varFuellstandUnten : REAL;
+	varFuellstandOben : REAL;
+	varSollFuellstand : REAL;
+	varPidEnb : BOOL; (*PID*) (*SetValue : REAL := 0.0; (* set value *) (*ActValue : REAL := 0.0; (* actual value *)
+	PID : MTBasicsPID := (0); (* function block MTBasicsPID *)
+	tzyk : REAL;
+	Kp : REAL;
+	Kr : REAL;
+END_VAR

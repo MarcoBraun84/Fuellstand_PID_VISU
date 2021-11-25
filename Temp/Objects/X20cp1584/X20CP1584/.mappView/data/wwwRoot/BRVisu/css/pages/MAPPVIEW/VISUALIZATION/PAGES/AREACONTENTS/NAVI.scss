@@ -1,0 +1,46 @@
+﻿@import "mixins.scss";
+#NavigationContent_NavigationBar1 {
+	@include elemTop(0);
+}
+#NavigationContent_NavigationBar1 {
+	@include elemLeft(0);
+}
+#NavigationContent_NavigationBar1 {
+	@include elemWidth(100);
+}
+#NavigationContent_NavigationBar1 {
+	@include elemHeight(600);
+}
+#NavigationContent_NavigationBar1 {
+		z-index: 0;
+}
+#NavigationContent_Page1 {
+	@include elemAutoWidth(100);
+}
+#NavigationContent_Page1 {
+	@include elemAutoHeight(30);
+}
+#NavigationContent_Page1 {
+	@include elemTop(20);
+}
+#NavigationContent_Page1 {
+	@include elemLeft(0);
+}
+#NavigationContent_Page1 {
+		z-index: 0;
+}
+#NavigationContent_Page2 {
+	@include elemAutoWidth(100);
+}
+#NavigationContent_Page2 {
+	@include elemAutoHeight(30);
+}
+#NavigationContent_Page2 {
+	@include elemTop(60);
+}
+#NavigationContent_Page2 {
+	@include elemLeft(0);
+}
+#NavigationContent_Page2 {
+		z-index: 1;
+}

@@ -1,0 +1,21 @@
+Thu Nov 25 15:52:14 2021
+COPYRIGHT (C) B&R Industrial Automation GmbH
+
+Thu Nov 25 15:52:14 2021
+No ARsim registration found!
+
+Thu Nov 25 15:52:14 2021
+InstanceName: 01d7e20c0899c8a0
+
+Thu Nov 25 15:52:14 2021
+WorkingDirectory: C:\projects\03_Fuellstand_Vorbereitung_PID_Viso\Temp\Simulation\X20cp1584\X20CP1584\
+
+Thu Nov 25 15:52:14 2021
+COMMAND_COLDSTART
+
+Thu Nov 25 15:52:16 2021
+Version: C4.90
+
+Thu Nov 25 15:54:48 2021
+COMMAND_TERMINATE
+

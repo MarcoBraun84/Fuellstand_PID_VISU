@@ -1,0 +1,234 @@
+#Page1Content_Label1 {
+  height: 30px;
+}
+
+#Page1Content_Label1 {
+  top: 20px;
+  position: absolute;
+}
+
+#Page1Content_Label1 {
+  left: 20px;
+  position: absolute;
+}
+
+#Page1Content_Label1 {
+  width: 660px;
+}
+
+#Page1Content_Label1 {
+  z-index: 0;
+}
+
+#Page1Content_Label1 {
+  justify-content: center;
+  text-align: center;
+  -webkit-box-align: center;
+  -moz-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+#Page1Content_Pumpe {
+  top: 300px;
+  position: absolute;
+}
+
+#Page1Content_Pumpe {
+  left: 380px;
+  position: absolute;
+}
+
+#Page1Content_Pumpe {
+  width: 300px;
+}
+
+#Page1Content_Pumpe {
+  height: 300px;
+}
+
+#Page1Content_Pumpe {
+  z-index: 1;
+}
+
+#Page1Content_Pumpe .backShape {
+  border-color: black;
+}
+
+#Page1Content_Pumpe .backShape {
+  background-color: white;
+}
+
+#Page1Content_Pumpe .gaugeContainer .groupScaleAreas .area1 {
+  fill: red;
+}
+
+#Page1Content_Pumpe .gaugeContainer .groupScaleAreas .area2 {
+  fill: chartreuse;
+}
+
+#Page1Content_Pumpe .gaugeContainer .groupScaleAreas .area3 {
+  fill: chartreuse;
+}
+
+#Page1Content_Pumpe .gaugeContainer .groupScaleAreas .area4 {
+  fill: chartreuse;
+}
+
+#Page1Content_Pumpe .gaugeContainer .groupScaleAreas .area5 {
+  fill: chartreuse;
+}
+
+#Page1Content_SOLL {
+  top: 220px;
+  position: absolute;
+}
+
+#Page1Content_SOLL {
+  left: 20px;
+  position: absolute;
+}
+
+#Page1Content_SOLL {
+  width: 640px;
+}
+
+#Page1Content_SOLL {
+  height: 80px;
+}
+
+#Page1Content_SOLL {
+  z-index: 2;
+}
+
+#Page1Content_PID_P {
+  top: 100px;
+  position: absolute;
+}
+
+#Page1Content_PID_P {
+  left: 20px;
+  position: absolute;
+}
+
+#Page1Content_PID_P {
+  width: 300px;
+}
+
+#Page1Content_PID_P {
+  height: 80px;
+}
+
+#Page1Content_PID_P {
+  z-index: 3;
+}
+
+#Page1Content_PID_I {
+  top: 100px;
+  position: absolute;
+}
+
+#Page1Content_PID_I {
+  left: 360px;
+  position: absolute;
+}
+
+#Page1Content_PID_I {
+  width: 300px;
+}
+
+#Page1Content_PID_I {
+  height: 80px;
+}
+
+#Page1Content_PID_I {
+  z-index: 4;
+}
+
+#Page1Content_Label2 {
+  width: 80px;
+}
+
+#Page1Content_Label2 {
+  height: 30px;
+}
+
+#Page1Content_Label2 {
+  top: 180px;
+  position: absolute;
+}
+
+#Page1Content_Label2 {
+  left: 320px;
+  position: absolute;
+}
+
+#Page1Content_Label2 {
+  z-index: 5;
+}
+
+#Page1Content_Label3 {
+  width: 80px;
+}
+
+#Page1Content_Label3 {
+  height: 30px;
+}
+
+#Page1Content_Label3 {
+  top: 80px;
+  position: absolute;
+}
+
+#Page1Content_Label3 {
+  left: 160px;
+  position: absolute;
+}
+
+#Page1Content_Label3 {
+  z-index: 6;
+}
+
+#Page1Content_Label4 {
+  width: 80px;
+}
+
+#Page1Content_Label4 {
+  height: 30px;
+}
+
+#Page1Content_Label4 {
+  top: 80px;
+  position: absolute;
+}
+
+#Page1Content_Label4 {
+  left: 500px;
+  position: absolute;
+}
+
+#Page1Content_Label4 {
+  z-index: 7;
+}
+
+#Page1Content_ProgressBar1 {
+  top: 340px;
+  position: absolute;
+}
+
+#Page1Content_ProgressBar1 {
+  left: 80px;
+  position: absolute;
+}
+
+#Page1Content_ProgressBar1 {
+  width: 210px;
+}
+
+#Page1Content_ProgressBar1 {
+  height: 210px;
+}
+
+#Page1Content_ProgressBar1 {
+  z-index: 8;
+}
